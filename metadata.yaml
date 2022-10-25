@@ -1,5 +1,8 @@
 _repo: Les-dames-vertes-OEuvres-de-George-Sand_69098
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69098-h/images/dames_cover.jpg
 creator:
   author:
     agent_name: Sand, George
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/George_Sand
     - https://fr.wikipedia.org/wiki/George_Sand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69098#Les-dames-vertes-OEuvres-de-George-Sand
 gutenberg_issued: '2022-10-06'
 identifiers:
   gutenberg: '69098'
